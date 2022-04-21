@@ -1,3 +1,13 @@
+USERS
+
+add user support so that a people can share their dbs with each other. 
+(
+  access annonomus poems,
+  get feeling guesses based on connections that other users have made,
+  get suggestions for stratagies that other users use to meet needs
+)
+_____________
+
 DB CONTENT
 
 Work on adding needs with associated feelings
@@ -24,3 +34,5 @@ ________________________
 FRONT END
 
 Add a page that allows queries and filters, and displays related info
+
+add a poem generation page that promts with a feeling and need, then allows for additions to be added after the poem is submitted.
