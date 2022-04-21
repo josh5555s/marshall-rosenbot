@@ -1,0 +1,26 @@
+DB CONTENT
+
+Work on adding needs with associated feelings
+
+Write poems
+
+backup db and removed duplicate grief/grieving
+_____________________________
+
+DB MODELS
+
+poems and strategies should have connections to both satisfied needs and frusterated needs (unselected needs are therefore neutral)
+
+Create a Stratagy model which instanciates stratagies to get needs met (reference spreadsheet made awhile back).
+The stratagies include the needs they support and the needs they hinder.
+Stratagies can also be linked to in the poetry model, but blank=True
+
+_____________________
+
+ADMIN 
+
+________________________
+
+FRONT END
+
+Add a page that allows queries and filters, and displays related info
